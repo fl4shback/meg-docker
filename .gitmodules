@@ -1,0 +1,3 @@
+[submodule "meg"]
+	path = meg
+	url = https://github.com/mojaveexpressguide/mojaveexpressguide.github.io
